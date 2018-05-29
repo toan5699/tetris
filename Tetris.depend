@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1519307793 source:d:\file bai tap\baitap.c\codeblock\tetris\tetrisobject.cpp
+	"core.h"
+	<string>
+	<SDL.h>
+	"TetrisOBJECT.h"
+
+1520737445 d:\file bai tap\baitap.c\codeblock\tetris\core.h
+	<SDL.h>
+	<string>
+
+1520303812 d:\file bai tap\baitap.c\codeblock\tetris\tetrisobject.h
+	<SDL.h>
+
+1520304202 source:d:\file bai tap\baitap.c\codeblock\tetris\core.cpp
+	<iostream>
+	"core.h"
+	<string>
+	<SDL.h>
+
+1520304049 source:d:\file bai tap\baitap.c\codeblock\tetris\main.cpp
+	<iostream>
+	<SDL.h>
+	<string>
+	<ctime>
+	"core.h"
+	"TetrisOBJECT.h"
+
+1525970873 source:c:\users\toannguyen\documents\tetris\core.cpp
+	<iostream>
+	"core.h"
+	<string>
+	<SDL.h>
+
+1525970873 c:\users\toannguyen\documents\tetris\core.h
+	<SDL.h>
+	<string>
+
+1526027989 source:c:\users\toannguyen\documents\tetris\main.cpp
+	<iostream>
+	<SDL.h>
+	<string>
+	<ctime>
+	"core.h"
+	"TetrisOBJECT.h"
+
+1525770938 c:\users\toannguyen\documents\tetris\tetrisobject.h
+	<SDL.h>
+
+1526032480 source:c:\users\toannguyen\documents\tetris\tetrisobject.cpp
+	"core.h"
+	<string>
+	<SDL.h>
+	"TetrisOBJECT.h"
+	<stdlib.h>
+
+1525923233 source:c:\users\toannguyen\documents\tetris\text_tetris.cpp
+	"text_tetris.h"
+
+1525923055 c:\users\toannguyen\documents\tetris\text_tetris.h
+	<iostream>
+	"SDL.h"
+	"SDL_ttf.h"
+
